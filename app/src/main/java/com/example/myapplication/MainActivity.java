@@ -11,6 +11,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        /* cambio de prueba git */
+        /* cambio de prueba git cambio de rama*/
     }
 }
